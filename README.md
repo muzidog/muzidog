@@ -62,7 +62,7 @@
 
 <div align="left">
 
- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzidog&langs_count=10&layout=compact&theme=gruvbox"/>
+ <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzidog&langs_count=10&layout=compact&theme=gruvbox"/>
 </div>
 
 <div align="right">

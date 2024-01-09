@@ -4,7 +4,7 @@
   
   # muzidog
 
-[![wakatime](https://wakatime.com/badge/user/4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63.svg)](https://wakatime.com/@4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63)
+
 
  ## 👋 Hi! 
 
@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![wakatime](https://wakatime.com/badge/user/4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63.svg)](https://wakatime.com/@4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63)
 
 <a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats-git-master-kimsu10.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange&hide_border=true"></a>
 Views
